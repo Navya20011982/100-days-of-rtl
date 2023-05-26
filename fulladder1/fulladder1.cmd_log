@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/100 days/fulladder1/fulladder1.xst" -ofn "D:/100 days/fulladder1/fulladder1.syr" 
